@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/30992818/62599565-25c06000-b91f-11e9-8b5c-63efecdeeef6.png)
+U![image](https://user-images.githubusercontent.com/30992818/62599565-25c06000-b91f-11e9-8b5c-63efecdeeef6.png)
 
 
 ![image](https://user-images.githubusercontent.com/30992818/62850471-84b61880-bd15-11e9-80d7-e2ed87aee4fe.png)
@@ -31,6 +31,8 @@ If you happen to have the habit of writing a mission plan, then it must be perfe
 For users and developers, I will introduce them separately
 
 Before we start, you can take a look at the demo:
+
+Next advanced task manager will be added
 
 
 <img width="200" alt="018" src="https://user-images.githubusercontent.com/30992818/63140875-f80da200-c015-11e9-8b14-60d6725620f1.gif"/>
